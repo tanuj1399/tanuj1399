@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Tanuj Singh
 
-<!--
-**tanuj1399/tanuj1399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Engineer
 
-Here are some ideas to get you started:
+- Experienced in building **cloud-native microservices** using Java, Spring Boot, and Kubernetes  
+- Strong background in **modernizing legacy systems** and improving scalability & uptime  
+- Hands-on with **AWS, Docker, CI/CD, and distributed system design**  
+- Skilled in developing **high-performance APIs and backend platforms**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Java  
+- **Backend:** Spring Boot, Spring Security, Hibernate  
+- **Cloud & DevOps:** Kubernetes, Docker, AWS, Jenkins  
+- **Databases:** PostgreSQL, Oracle, Redis  
+- **Architecture:** Microservices, REST APIs
