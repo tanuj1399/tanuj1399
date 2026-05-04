@@ -11,8 +11,14 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** Java  
-- **Backend:** Spring Boot, Spring Security, Hibernate  
-- **Cloud & DevOps:** Kubernetes, Docker, AWS, Jenkins  
-- **Databases:** PostgreSQL, Oracle, Redis  
-- **Architecture:** Microservices, REST APIs
+**Backend**
+- Java, Spring Boot, Spring Security, Hibernate
+
+**Cloud & DevOps**
+- Kubernetes, Docker, AWS, Jenkins, CI/CD
+
+**Databases**
+- PostgreSQL, Oracle, Redis
+
+**Architecture**
+- Microservices, REST APIs, Distributed Systems
