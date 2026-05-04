@@ -2,23 +2,16 @@
 
 ## 🚀 Backend Engineer
 
-- Experienced in building **cloud-native microservices** using Java, Spring Boot, and Kubernetes  
+- Passionate about building **cloud-native applications** using Java, Spring Boot, and Kubernetes  
 - Strong background in **modernizing legacy systems** and improving scalability & uptime  
-- Hands-on with **AWS, Docker, CI/CD, and distributed system design**  
+- Experience in **AWS, Docker, CI/CD, and distributed system design**  
 - Skilled in developing **high-performance APIs and backend platforms**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
-- Java, Spring Boot, Spring Security, Hibernate
-
-**Cloud & DevOps**
-- Kubernetes, Docker, AWS, Jenkins, CI/CD
-
-**Databases**
-- PostgreSQL, Oracle, Redis
-
-**Architecture**
-- Microservices, REST APIs, Distributed Systems
+**Backend:** Java, Spring Boot, Spring Security, Hibernate
+**Cloud & DevOps:** Kubernetes, Docker, AWS, Jenkins, CI/CD
+**Databases:** PostgreSQL, Oracle, Redis
+**Architecture:** Microservices, REST APIs, Distributed Systems
